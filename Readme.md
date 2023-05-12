@@ -1,3 +1,4 @@
+![WhatsApp Image 2023-05-12 à 10 06 54](https://github.com/jgaman/Ethic-Fashion-projet-IA-Jean-Luc-Jordan-Djibril-Nour-/assets/43534237/45154118-5a1c-4af0-a3b5-68b244c6dfdf)
 L'objectif de ce projet est de proposer une vente de vêtements respectueuse de l'environnement en permettant aux utilisateurs de choisir des vêtements en fonction de leur empreinte carbone et de leur genre.
 
 Le projet utilise une base de données de vêtements avec leurs caractéristiques, y compris leur empreinte carbone. Les utilisateurs peuvent filtrer les vêtements par genre et par quota de CO2 maximum. Les vêtements sélectionnés sont affichés avec leur description, leur empreinte carbone et leur prix. Les utilisateurs peuvent ajouter des articles à leur panier.
